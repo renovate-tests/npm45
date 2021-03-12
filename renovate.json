@@ -1,3 +1,4 @@
 {
-  "transitiveRemediation": true
+  "transitiveRemediation": true,
+  "recreateClosed": true
 }
